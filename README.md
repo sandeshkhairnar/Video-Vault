@@ -133,7 +133,7 @@ npm run build
 
 **Your Name** - sandeshkhairnar123@gmail.com
 
-**Project Link**: [GitHub Repository](https://github.com/yourusername/video-vault)
+**Project Link**: [GitHub Repository](https://github.com/sandeshkhairnar/Video-Vault/tree/main)
 
 ---
 
