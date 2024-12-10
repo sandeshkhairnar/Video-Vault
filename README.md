@@ -8,7 +8,8 @@
 
 
 ## 🚀 Live Demo
-**[Click Here to View Live Application](https://videovault1.vercel.app/)**
+<a href="https://videovault1.vercel.app/" target="_blank">Click Here to View Live Application</a>
+
 
 
 ## 🌟 Overview
