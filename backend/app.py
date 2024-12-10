@@ -2,9 +2,7 @@ import os
 import uuid
 from flask import Flask, request, send_file, jsonify
 from flask_cors import CORS
-import werkzeug
 import datetime
-from app import app as application
 
 app = Flask(__name__)
 CORS(app)
@@ -88,4 +86,4 @@ def delete_video():
     return jsonify({"message": "Video deleted successfully"}), 200
 
 if __name__ == "__main__":
-    application.run()
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
