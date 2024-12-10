@@ -43,6 +43,10 @@ Video Vault/
 │   │   │   ├── Dashboard.js
 │   │   │   ├── VideoPlayer.js
 │   │   │   └── VideoRecorder.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── tailwind.css
+│   └── tailwind.config.js
 │   └── package.json
 │
 ├── backend/            # Flask Backend
