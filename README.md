@@ -5,11 +5,6 @@
     
     # 🎥 Video Vault
 
-    **Seamless Video Management Platform**
-
-    [![Deployment Status](https://img.shields.io/badge/Deployment-Online-brightgreen)](https://your-deployment-link.com)
-    [![React](https://img.shields.io/badge/Frontend-React.js-blue?logo=react)](https://reactjs.org/)
-    [![Flask](https://img.shields.io/badge/Backend-Flask-green?logo=flask)](https://flask.palletsprojects.com/)
 </div>
 
 ## 🌟 Overview
