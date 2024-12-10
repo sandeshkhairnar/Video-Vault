@@ -1,15 +1,14 @@
-# Video Vault
+# 🎥 Video Vault
+
 
 <div align="center">
-    <img src="https://via.placeholder.com/1200x400?text=Video+Vault+Banner" alt="Video Vault Banner">
+    <img src="./assets/image.png" alt="Video Vault Banner">
     
-    # 🎥 Video Vault
-
 </div>
 
 
 ## 🚀 Live Demo
-**[Click Here to View Live Application](https://your-deployment-link.com)**
+**[Click Here to View Live Application](https://videovault1.vercel.app/)**
 
 
 ## 🌟 Overview
@@ -21,22 +20,22 @@ Video Vault is an innovative full-stack video management application that provid
 
 | Technology | Description | Version |
 |-----------|-------------|---------|
-| Frontend | React.js | 18.x |
-| Backend | Flask | 2.x |
-| Styling | Tailwind CSS | 3.x |
-| Deployment | Cloud Platform | AWS/Heroku |
+| Frontend | React.js | 18.2.0 |
+| Backend | Flask | 3.1.0 |
+| Styling | Tailwind CSS | 3.3.3 |
+| Deployment | Cloud Platform | Vercel/Render/Firebase |
 
 ## 🔧 Prerequisites
 
 - 🟢 Node.js (v14+)
-- 🐍 Python 3.8+
-- 📦 npm/yarn
+- 🐍 Python 3.13.1
+- 📦 npm
 - 🌐 Modern Web Browser
 
 ## 📂 Project Structure
 
 ```
-video-management-app/
+Video Vault/
 │
 ├── frontend/           # React Frontend
 │   ├── src/
@@ -89,9 +88,8 @@ npm start
 
 ### Frontend Deployment
 - **Platforms**: 
-  - Netlify
+  - Github
   - Vercel
-  - GitHub Pages
 
 ```bash
 # Build React App
@@ -100,10 +98,9 @@ npm run build
 
 ### Backend Deployment
 - **Platforms**:
-  - Heroku
-  - AWS Elastic Beanstalk
-  - Google App Engine
-
+  - Render
+  - Github
+  - Firebase
 ## ✨ Key Features
 
 - 🎥 **Video Recording**
@@ -111,10 +108,7 @@ npm run build
   - High-quality capture
 - 🖥️ **Video Playback**
   - Smooth streaming
-  - Multiple format support
-- ☁️ **Cloud Storage**
-  - Secure video storage
-  - Easy access
+  - Multiple format support to save video
 - 📱 **Responsive Design**
   - Works on all devices
 
@@ -135,13 +129,9 @@ npm run build
    ```
 5. Open Pull Request
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 📧 Contact
 
-**Your Name** - your.email@example.com
+**Your Name** - sandeshkhairnar123@gmail.com
 
 **Project Link**: [GitHub Repository](https://github.com/yourusername/video-vault)
 
